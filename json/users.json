@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "username": "joaosilvaaaa",
+      "fullname": "João da Silva",
+      "password": "senha123",
+      "action": "create"
+    },
+    {
+      "username": "mariaoliveira",
+      "fullname": "Maria de Oliveira",
+      "password": "senha456",
+      "action": "create"
+    },
+    {
+      "username": "pedrosouza",
+      "fullname": "Pedro Souza",
+      "password": "senha789",
+      "action": "create"
+    },
+    {
+      "username": "carolalmeida",
+      "fullname": "Carolina Almeida",
+      "password": "",
+      "action": "delete"
+    },
+    {
+      "username": "lucaspires",
+      "fullname": "Lucas Pires",
+      "password": "novaSenha!",
+      "action": "update"
+    }
+  ]
+}
